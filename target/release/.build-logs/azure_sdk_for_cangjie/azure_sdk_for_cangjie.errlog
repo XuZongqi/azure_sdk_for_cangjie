@@ -1,0 +1,12 @@
+[33mwarning[0m: unused function:'main'
+  [36m==>[0m D:\VSCode\VS_projects\Cangjie_Projects\azure_sdk_for_cangjie\src\main.cj:30:1:
+   [36m| [0m
+[36m30[0m [36m| [0m  main() {[0m
+   [36m| [0m [33m_[0m[33m^[0m
+[36m31[0m [36m| [0m[33m|[0m     println(a)[0m
+[36m32[0m [36m| [0m[33m|[0m }[0m
+   [36m| [0m[33m|[0m[33m_[0m[33m^ unused function[0m
+   [36m| [0m
+   [36m#[0m [0mnote[0m: this warning can be suppressed by setting the compiler option `-Woff unused`
+
+1 warning generated, 1 warning printed.

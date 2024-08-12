@@ -6,7 +6,7 @@
       "packagePath": "D:\\VSCode\\VS_projects\\Cangjie_Projects\\azure_sdk_for_cangjie\\src",
       "fullName": "azure_sdk_for_cangjie",
       "isMacroPackage": false,
-      "output-type": "executable",
+      "output-type": "static",
       "compile-option": "",
       "native-compile-option": "",
       "customized-option": {},

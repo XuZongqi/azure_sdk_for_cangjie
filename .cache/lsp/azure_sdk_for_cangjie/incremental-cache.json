@@ -3,11 +3,11 @@
     "azure_sdk_for_cangjie": {
       "rootPackageName": "azure_sdk_for_cangjie",
       "fileNameHash": "4416519432573884506",
-      "timeStamp": 1723447736,
+      "timeStamp": 1723445532,
       "buildFlag": true,
-      "exeName": ""
+      "exeName": "main"
     }
   },
-  "jsonHash": "5804102057128325169",
+  "jsonHash": "6281180728034142480",
   "rootPackageName": "azure_sdk_for_cangjie"
 }

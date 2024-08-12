@@ -6,7 +6,7 @@
   description = "nothing here"
   link-option = ""
   name = "azure_sdk_for_cangjie"
-  output-type = "executable"
+  output-type = "static"
   src-dir = ""
   target-dir = ""
   version = "1.0.0"
