@@ -4,7 +4,8 @@
 [36m30[0m [36m| [0m  main() {[0m
    [36m| [0m [33m_[0m[33m^[0m
 [36m31[0m [36m| [0m[33m|[0m     println(a)[0m
-[36m32[0m [36m| [0m[33m|[0m }[0m
+   [36m| [0m[33m|[0m ...[0m
+[36m33[0m [36m| [0m[33m|[0m }[0m
    [36m| [0m[33m|[0m[33m_[0m[33m^ unused function[0m
    [36m| [0m
    [36m#[0m [0mnote[0m: this warning can be suppressed by setting the compiler option `-Woff unused`

@@ -29,4 +29,5 @@ enum E { F | G }
 
 main() {
     println(a)
+    println(a)
 }
